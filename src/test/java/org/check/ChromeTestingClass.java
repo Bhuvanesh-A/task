@@ -386,6 +386,7 @@ public class ChromeTestingClass extends BaseClass {
 			WebElement price = a.getPrice();
 			String value = getValue(price);
 			System.out.println("\n" + "Total Price Of The Build Is : Rs. " + value + "\n");
+			System.out.println("work by QA");
 		} catch (Exception e) {
 			System.out.println("Error with Getting The Price: " + "Error_" + e.getMessage() + "\n");
 		}
