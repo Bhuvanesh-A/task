@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="Test2(failed)">
+    <parameter name="Type" value="Edge-Browser"/>
+    <classes>
+      <class name="org.check.TestingClassNew">
+        <methods>
+          <include name="browser" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- org.check.TestingClassNew -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

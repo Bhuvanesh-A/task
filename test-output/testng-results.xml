@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-13T17:39:59 IST" name="Default suite" finished-at="2023-10-13T17:44:18 IST" duration-ms="258842">
+    <groups>
+    </groups>
+    <test started-at="2023-10-13T17:39:59 IST" name="Default test" finished-at="2023-10-13T17:44:18 IST" duration-ms="258842">
+      <class name="org.check.ChromeTestingClass">
+        <test-method signature="login(java.lang.String)[pri:1, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:39:59 IST" name="login" finished-at="2023-10-13T17:40:15 IST" duration-ms="15604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addCpu()[pri:2, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:40:15 IST" name="addCpu" finished-at="2023-10-13T17:40:37 IST" duration-ms="22414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCpu -->
+        <test-method signature="addCooler()[pri:3, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:40:37 IST" name="addCooler" finished-at="2023-10-13T17:41:05 IST" duration-ms="28113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCooler -->
+        <test-method signature="addMb()[pri:4, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:41:05 IST" name="addMb" finished-at="2023-10-13T17:41:33 IST" duration-ms="28195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMb -->
+        <test-method signature="addRam()[pri:5, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:41:33 IST" name="addRam" finished-at="2023-10-13T17:42:02 IST" duration-ms="28354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRam -->
+        <test-method signature="addSsd()[pri:6, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:42:02 IST" name="addSsd" finished-at="2023-10-13T17:42:29 IST" duration-ms="27693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSsd -->
+        <test-method signature="addGpu()[pri:7, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:42:29 IST" name="addGpu" finished-at="2023-10-13T17:42:58 IST" duration-ms="28827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGpu -->
+        <test-method signature="addPower()[pri:8, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:42:58 IST" name="addPower" finished-at="2023-10-13T17:43:26 IST" duration-ms="27496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPower -->
+        <test-method signature="addCabinet()[pri:9, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:43:26 IST" name="addCabinet" finished-at="2023-10-13T17:43:54 IST" duration-ms="27822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCabinet -->
+        <test-method signature="saveBuild()[pri:10, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:43:54 IST" name="saveBuild" finished-at="2023-10-13T17:44:06 IST" duration-ms="12071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveBuild -->
+        <test-method signature="createLink()[pri:11, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:44:06 IST" name="createLink" finished-at="2023-10-13T17:44:12 IST" duration-ms="6065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLink -->
+        <test-method signature="copyLink()[pri:12, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:44:12 IST" name="copyLink" finished-at="2023-10-13T17:44:18 IST" duration-ms="6034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyLink -->
+        <test-method signature="getPrice()[pri:13, instance:org.check.ChromeTestingClass@359f7cdf]" started-at="2023-10-13T17:44:18 IST" name="getPrice" finished-at="2023-10-13T17:44:18 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPrice -->
+      </class> <!-- org.check.ChromeTestingClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
